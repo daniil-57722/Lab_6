@@ -1,6 +1,6 @@
 package com.example.helloworld;
 import java.util.Scanner;
-public class helloworld {
+public class Lab_6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
